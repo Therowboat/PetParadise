@@ -1,0 +1,1 @@
+{ "ConnectionStrings": { "MyDBConnection": "Server=localhost\\SQLEXPRESS;Database=PET_PARADISE;Trusted_Connection=True;TrustServerCertificate=true;" } }
